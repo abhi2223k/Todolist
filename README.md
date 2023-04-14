@@ -10,7 +10,7 @@ JavaScript
 Installation Instructions
 To download and set up the project on your local machine, follow these steps:
 
-Clone the repository using git clone https://github.com/your-username/your-repo.git.
+Clone the repository using 
 Navigate to the project directory using cd your-repo.
 Open the index.html file in your web browser.
 Usage Instructions
