@@ -10,7 +10,7 @@ JavaScript
 Installation Instructions
 To download and set up the project on your local machine, follow these steps:
 
-Clone the repository using https://github.com/abhi2223k/Todolist/tree/main
+Clone the repository using https://github.com/abhi2223k/Todolist.git
 Navigate to the project directory using cd your-repo.
 Open the index.html file in your web browser.
 Usage Instructions
